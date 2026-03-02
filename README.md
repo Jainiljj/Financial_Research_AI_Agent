@@ -34,5 +34,5 @@ FinSage AI is a intelligent financial research assistant that helps users analyz
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/finsage-ai.git
-cd finsage-ai
+git clone https://github.com/yourusername/Financial_Research_AI_Agent.git
+cd Financial_Research_AI_Agent
